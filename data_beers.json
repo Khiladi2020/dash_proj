@@ -1,0 +1,32 @@
+{
+    "b1": {
+        "name": "Beer 1",
+        "min_temp": 4,
+        "max_temp": 6
+    },
+    "b2": {
+        "name": "Beer 2",
+        "min_temp": 5,
+        "max_temp": 6
+    },
+    "b3": {
+        "name": "Beer 3",
+        "min_temp": 4,
+        "max_temp": 7
+    },
+    "b4": {
+        "name": "Beer 4",
+        "min_temp": 6,
+        "max_temp": 8
+    },
+    "b5": {
+        "name": "Beer 5",
+        "min_temp": 3,
+        "max_temp": 5
+    },
+    "b6": {
+        "name": "Vodka",
+        "min_temp": 1,
+        "max_temp": 7
+    }
+}

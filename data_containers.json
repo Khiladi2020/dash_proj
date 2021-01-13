@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Container 1",
+        "beer_type": "Beer 1",
+        "beer_id": "b1"
+    },
+    {
+        "id": 2,
+        "name": "Container 2",
+        "beer_type": "Beer 1",
+        "beer_id": "b1"
+    },
+    {
+        "id": 3,
+        "name": "Container 3",
+        "beer_type": "Beer 2",
+        "beer_id": "b2"
+    },
+    {
+        "id": 4,
+        "name": "Container 4",
+        "beer_type": "Beer 3",
+        "beer_id": "b3"
+    },
+    {
+        "id": 5,
+        "name": "Container 5",
+        "beer_type": "Beer 5",
+        "beer_id": "b5"
+    },
+    {
+        "id": 6,
+        "name": "Container 6",
+        "beer_type": "Beer 2",
+        "beer_id": "b2"
+    },
+    {
+        "id": 7,
+        "name": "Container 7",
+        "beer_type": "Beer 4",
+        "beer_id": "b4"
+    },
+    {
+        "id": 8,
+        "name": "Container 8",
+        "beer_type": "Beer 3",
+        "beer_id": "b3"
+    }
+]
