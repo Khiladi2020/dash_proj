@@ -3,13 +3,18 @@ Note: all commands must be executed in terminal in projects directory
 
 1) Latest version of python3 is required 
 2) Install all required packages (Flask and pytest) by below commands
-	->	pip install Flask
-	->	pip install pytest
+```
+pip install Flask
+pip install pytest
+```
 3) Type below Commands to run the Flask server
-	->	python main_app.py
-
-	Note: If above commands does not works , then try below command
-	->	python3 main_app.py
+```
+python main_app.py
+```
+**Note:** If above commands does not works , then try below command
+```
+python3 main_app.py
+```
 
 4) After running the Server copy the address of server from terminal to browser to open the website
 5) After do above all steps if website opens up means everything is working fine 
@@ -17,7 +22,9 @@ Note: all commands must be executed in terminal in projects directory
 ## Steps to run all tests
 
 1) Type below command in terminal
-	-> pytest
+```
+pytest
+```
 2) If everything worked fine results of all test will be printed on terminal
 
 3) **Note:** 
